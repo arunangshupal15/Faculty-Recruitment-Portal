@@ -1,4 +1,4 @@
-# DBMS_LAB_CS260_2024
+# Faculty Recruitment Portal
 To run this project using Docker:
 1. Open the terminal in the current directory.
 2. Enter the following command: docker-compose up -d --build
